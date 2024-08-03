@@ -1,4 +1,4 @@
-# JAVA_job_search_portal
+# JAVA_job_search_portal(Sem-1)
 -> My Project implements a platform for job seekers and recruiters.
 -> It is a basic console based project which allows users to create accounts, post and search for job listings, search for people, and search for companies.
 -> Key features include user authentication, job listing management, and search functionalities for jobs, people, and companies.
